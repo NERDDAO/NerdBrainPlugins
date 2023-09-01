@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "89c4281372dfc159",
+    "type": "split",
+    "children": [
+      {
+        "id": "474a1c1dc8eef326",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "602ebc585916a445",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Engrams/Active Engrams/Engram Starter Kit.canvas",
+                "viewState": {
+                  "x": 3857,
+                  "y": 5523.3956822468745,
+                  "zoom": -3.5999999999999996
+                }
+              }
+            }
+          },
+          {
+            "id": "95a6f04ec2fb8898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engrams/Active Engrams/kEngram Starter Kit Design Document.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9910b18fa9dba45a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engrams/Data Cache/Starter kit Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc385e93de1a2e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Questions/New Questions/Engram Starter Kit/Engram Kit Hub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c73d4a7ca060a809",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.merriam-webster.com/dictionary/starter%20kit"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da8d6ef586bb1644",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf5181bd853b8256",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9fc7b6213ea2900",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80757f66dc0a1985",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hyperstructure canvas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dacba6dd2d4052bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4234b9177d78f0f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ac0d785c7dd2e8d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "6577a0ebad2dde17",
+    "type": "split",
+    "children": [
+      {
+        "id": "04583e2a1574c684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caea9d2134172a80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engrams/Active Engrams/Engram Starter Kit.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "746ef4b8990d687a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Engrams/Active Engrams/Engram Starter Kit.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14b683e05f87a806",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37a924c6899b660f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Engrams/Active Engrams/Engram Starter Kit.canvas"
+              }
+            }
+          },
+          {
+            "id": "a1e25698894a6c1f",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed0fa77b2a4b423e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a97b9e2b39f285f8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2746377739eb3e5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "sample-plugin:Amo a Marivi": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "publish:Publish changes...": false,
+      "bmo-chatbot:Chatbot (Clear Conversation)": false
+    }
+  },
+  "active": "602ebc585916a445",
+  "lastOpenFiles": [
+    "Engrams/Active Engrams/kEngram Starter Kit Design Document.md",
+    "Engrams/Active Engrams/Engram Starter Kit.canvas",
+    "Engrams/Engram Starter Kits/Neuron Templates/Engram Research kNeuron.md",
+    "Engrams/Data Cache/Knowledge Engrams.md",
+    "Engrams/Engram Starter Kits/Writing Kits/Untitled.md",
+    "Engrams/Data Cache/Starter kit Definition.md",
+    "Engrams/Active Engrams/Engram State Log.md",
+    "Engrams/Engram Starter Kits/Neuron Templates/GM Bot.canvas",
+    "Engrams/Engram Starter Kits/Neuron Templates/gm2.md",
+    "Study Questions/New Questions/Engram Starter Kit/Engram Kit Hub.md",
+    "Engrams/Active Engrams/Untitled 1.canvas",
+    "Engrams/Active Engrams/Untitled 2.canvas",
+    "Study Questions/New Questions/Engram Starter Kit/Engram Starter Kit.md",
+    "Study Questions/New Questions/New Questions.md",
+    "Drawing 2023-09-01 17.31.32.excalidraw.md",
+    "Engram Starter Kit.canvas",
+    "Study Questions/New Questions/Engram Starter Kit",
+    "Study Questions/New Questions/202309011726.md",
+    "Study Questions/New Questions/202309011722.md",
+    "Procedures/templates/T - New Question.md",
+    "Procedures/templates/T - YouTube Channel.md",
+    "Procedures/templates/NoteTemplates/QuestTemplate.md",
+    "Procedures/templates/NoteTemplates/CountryTemplate.md",
+    "Procedures/templates/T - GitHub Repository.md",
+    "Study Questions/202309011701.md",
+    "Study Questions/202309011717.md",
+    "Study Questions/New Questions",
+    "Study Questions/Philosophy/Philosophy Questions/Theory of Knowledge/Game_Theory/Chess Question1/Chess Question1.md",
+    "README/README.md",
+    "Procedures/Procedures.md",
+    "Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Knowledge Graphs/NerdBrain Research/NerdBrain Kanban.md",
+    "README",
+    "Research Communities/Procedures/Procedures README.md",
+    "Engrams/Engram Starter Kits/Neuron Templates/Chess kNeuron/Nerd_Dungeon_Master.canvas",
+    "Engrams/Engram Starter Kits/Writing Kits",
+    "Engrams/Engram Starter Kits",
+    "Engrams/Engram Starter Kits/Game Kits",
+    "Study Questions/Unprocessed Questions/202308121145_ZK_Bridge-1.canvas",
+    "Engrams/Active Engrams/202308221722_Lamden.canvas",
+    "Engrams/Active Engrams/Untitled.canvas",
+    "Engrams/Engram Starter Kits/Engram 101",
+    "Engrams/Active Neurons/Engramas Neuronales.canvas",
+    "harpoon-cache.json",
+    "Research Communities/NERD/Chats/Files/documents/AutoQuestions_For_Semantic - 20230831132838000.pdf",
+    "Research Communities/NERD/Chats/Files/documents",
+    "Research Communities/NERD/Obsidian_Hub/02 - Community Expansions/02.01 Plugins by Category/Pasted image 20230829090325.png"
+  ]
+}

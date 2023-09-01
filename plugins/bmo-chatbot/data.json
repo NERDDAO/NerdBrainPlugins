@@ -1,0 +1,14 @@
+{
+  "apiKey": "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",
+  "max_tokens": "",
+  "model": "gpt-3.5-turbo",
+  "system_role": "",
+  "temperature": 1,
+  "userName": "USER",
+  "chatbotName": "BOT",
+  "chatbotContainerBackgroundColor": "--background-secondary",
+  "userMessageBackgroundColor": "--background-primary",
+  "botMessageBackgroundColor": "--background-secondary",
+  "restAPIUrl": "",
+  "referenceCurrentNote": true
+}
